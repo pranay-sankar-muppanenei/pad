@@ -5,4 +5,6 @@ markdown
 langchain-openai
 langchain-community
 langchain-core
+langchain-text-splitters
 faiss-cpu
+streamlit
